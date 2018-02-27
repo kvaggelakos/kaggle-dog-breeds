@@ -1,7 +1,7 @@
 scikit-image==0.13.1
 scikit-learn==0.19.1
 pandas==0.22.0
-torch==0.3.1.post2
+http://download.pytorch.org/whl/torch-0.3.1-cp36-cp36m-macosx_10_7_x86_64.whl
 torchvision==0.1.9
 matplotlib==2.1.2
 Pillow==5.0.0
